@@ -1,5 +1,9 @@
 # Health-status-medical-students
 
+Prior to analysis of the data containing the medical records of medical students, I cleaned the data by replacing null values of numeric parameters such as blood pressure with the average value.
+I then took a deep dive into evaluating the differences in health parameters among male and female medical students and briefly summarised the possible reasons for the observed differences. 
+I utilised pivot tables to summarise the data and then visualised the data using charts. 
+
 ![Average Age by gender](https://github.com/ndzilaura/Health-status-medical-students/assets/147541699/8e8650ad-afe8-4de3-8b42-46a64260c842)
 ![Average BMI by gender](https://github.com/ndzilaura/Health-status-medical-students/assets/147541699/713dc6cb-650a-4dc7-9d3c-734c0fb4c1d3)
 ![Average temperature by Gender](https://github.com/ndzilaura/Health-status-medical-students/assets/147541699/98ab2a98-678b-4127-b881-de90068865e7)
